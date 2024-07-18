@@ -1,0 +1,12 @@
+names:
+- bicycle
+- bus
+- car
+- motorbike
+- truck
+- person
+- cidomo
+nc: 7
+test: test/images
+train: train/images
+val: valid/images
